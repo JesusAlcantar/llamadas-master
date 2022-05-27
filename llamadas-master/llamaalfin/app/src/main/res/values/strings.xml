@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">llamaalfin</string>
+    <string name="action_broadcast">com.example.llamaalfin.mibroadcastreceiverytelefonia.MIBROACAST</string>
+    <string name="action_broadcast_llamadas">com.example.llamaalfin.mibroadcastreceiverytelefonia.MIBROACASTLLAMADAS</string>
+</resources>
